@@ -8,3 +8,4 @@
 - 设计模式概述：https://www.cnblogs.com/chonglu/p/14920923.html
 - 简单工厂模式：https://www.cnblogs.com/chonglu/p/14920929.html
 - 策略模式：https://www.cnblogs.com/chonglu/p/14925021.html
+- 装饰模式你h：https://www.cnblogs.com/chonglu/p/14956368.html

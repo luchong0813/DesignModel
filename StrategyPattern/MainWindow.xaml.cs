@@ -4,9 +4,11 @@ using System.Windows;
 
 namespace StrategyPattern
 {
-    /// <summary>
-    /// MainWindow.xaml 的交互逻辑
-    /// </summary>
+    /**
+      * 模式：策略模式
+      * 时间：2021-06-23
+      * blog：https://www.cnblogs.com/chonglu/
+      */
     public partial class MainWindow : Window
     {
         private double total;

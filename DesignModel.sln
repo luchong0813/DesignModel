@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFactory", "SimpleFactory\SimpleFactory.csproj", "{B742AD89-B2B1-4BD9-9C4B-23CC305680C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrategyPattern", "StrategyPattern\StrategyPattern.csproj", "{F6E0BA2B-9995-4907-99B1-606F286EDF21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorate", "Decorate\Decorate.csproj", "{76D2B7EF-8501-4870-BF30-B925857C0590}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{B742AD89-B2B1-4BD9-9C4B-23CC305680C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B742AD89-B2B1-4BD9-9C4B-23CC305680C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B742AD89-B2B1-4BD9-9C4B-23CC305680C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E0BA2B-9995-4907-99B1-606F286EDF21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E0BA2B-9995-4907-99B1-606F286EDF21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E0BA2B-9995-4907-99B1-606F286EDF21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E0BA2B-9995-4907-99B1-606F286EDF21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D2B7EF-8501-4870-BF30-B925857C0590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D2B7EF-8501-4870-BF30-B925857C0590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D2B7EF-8501-4870-BF30-B925857C0590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D2B7EF-8501-4870-BF30-B925857C0590}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

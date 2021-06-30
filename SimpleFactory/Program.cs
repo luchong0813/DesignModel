@@ -6,9 +6,11 @@ using System.Threading.Tasks;
 
 namespace SimpleFactory
 {
-    /// <summary>
-    /// 简单工厂模式
-    /// </summary>
+    /**
+     * 模式：简单工厂模式
+     * 时间：2021-06-22
+     * blog：https://www.cnblogs.com/chonglu/
+     */
     class Program
     {
         static void Main(string[] args)
