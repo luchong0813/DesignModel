@@ -11,4 +11,5 @@
 - 装饰模式你：https://www.cnblogs.com/chonglu/p/14956368.html
 - 代理模式：https://www.cnblogs.com/chonglu/p/14961086.html
 - 工厂模式：https://www.cnblogs.com/chonglu/p/14961394.html
+- 原型模式：https://www.cnblogs.com/chonglu/p/14974646.html
 
