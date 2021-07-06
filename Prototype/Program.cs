@@ -6,6 +6,11 @@ using System.Threading.Tasks;
 
 namespace Prototype
 {
+    /**
+    * 模式：原型模式
+    * 时间：2021-07-05
+    * blog：https://www.cnblogs.com/chonglu/
+    */
     class Program
     {
         static void Main(string[] args)
