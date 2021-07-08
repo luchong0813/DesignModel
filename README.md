@@ -13,4 +13,6 @@
 - 工厂模式：https://www.cnblogs.com/chonglu/p/14961394.html
 - 原型模式：https://www.cnblogs.com/chonglu/p/14974646.html
 - 模板模式：https://www.cnblogs.com/chonglu/p/14979096.html
+- 外观模式：https://www.cnblogs.com/chonglu/p/14988297.html
+- 建造者模式：https://www.cnblogs.com/chonglu/p/14988557.html
 
