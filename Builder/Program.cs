@@ -27,6 +27,7 @@ namespace Builder
             houseBuilder1.buildResult();
 
             Console.WriteLine("------------------盖一栋城堡------------------");
+
             IHouseBuilder houseBuilder2 = new Tower();
             houseDirector.Construct(houseBuilder2);
             houseBuilder2.buildResult();

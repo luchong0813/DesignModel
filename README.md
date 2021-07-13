@@ -15,4 +15,5 @@
 - 模板模式：https://www.cnblogs.com/chonglu/p/14979096.html
 - 外观模式：https://www.cnblogs.com/chonglu/p/14988297.html
 - 建造者模式：https://www.cnblogs.com/chonglu/p/14988557.html
+- 观察者模式：https://www.cnblogs.com/chonglu/p/15008592.html
 
